@@ -10,3 +10,4 @@ spring:
 feign:
   hystrix:
     enabled: true  # 开启服务降级功能  必须开启否则会报错而且调用不了降级方法
+girlname: marry
