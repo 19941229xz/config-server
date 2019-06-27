@@ -1,5 +1,5 @@
 server:
-  port: 9091 #用户微服务端口
+  port: 19091 #用户微服务端口
 eureka:
   client:
     serviceUrl: #注册中心的注册地址
